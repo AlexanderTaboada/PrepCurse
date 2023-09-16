@@ -1,2 +1,3 @@
-# PrepCurse
-Aprendiendo a sinc git local y en la nube
+Modifica git local/nube
+modificar de forma local y guardar en la nube
+
